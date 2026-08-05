@@ -36,6 +36,18 @@ Todo queda en un log en tu repo. A partir del tercer experimento, `co` deja de e
 
 **El tamaño arregla el ruido, no arregla el sesgo.** Los números están en [`co/references/alcance.md`](co/references/alcance.md), con sus fuentes.
 
+## El radar: las otras skills del rubro
+
+En [`radar/`](radar/) están 15 skills de Claude que prometen ayudarte a innovar, leídas una por una
+en GitHub y calificadas con una rúbrica de seis dimensiones que también está ahí, con sus reglas y
+sus puntos ciegos escritos.
+
+El hallazgo, en corto: 14 de las 15 nunca preguntan a cuánta gente puedes llegar de verdad, y
+ninguna te dice qué puedes concluir con esa cantidad. El rubro está lleno de skills que te ordenan
+la cabeza y te devuelven exactamente la evidencia con la que entraste. `co` sale con 18 de 18 en
+esa rúbrica, y ahí mismo está explicado por qué ese 18 no prueba nada: el examen lo escribió el
+alumno.
+
 ## Qué NO hace
 
 - No opina si tu idea es buena. Te ayuda a escribir el número que lo responde con gente real.
