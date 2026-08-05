@@ -594,8 +594,9 @@ arma tres links distintos, uno por canal.
 **Dos semanas después:** "Tu link de LinkedIn registró 61 de las 90 que firmaste, el de WhatsApp
 38, el de Slack 0. Pagó una persona, del link de LinkedIn. Primero lo que no cuadra: el canal de
 Slack nunca se usó, queda anotado. Ahora el resultado: pagó una de 61 personas frías. Eso no es
-'1.6% de conversión': con un solo caso tu tasa real está entre 0.3% y 8.7%, y esos dos extremos
-son negocios distintos. No sabes tu tasa. Sabes que existe al menos un humano que paga por esto.
+'1.6% de conversión'. Voy a la tabla: no hay fila de 61, así que se redondea hacia abajo y se lee
+la de 50. Con un solo caso tu tasa real está entre 0.4% y 10.5%, y esos dos extremos son negocios
+distintos. No sabes tu tasa. Sabes que existe al menos un humano que paga por esto.
 Veredicto: SIGO BUSCANDO. Siguiente apuesta: encontrar un lugar con 600 personas como esa. Si ahí
 también paga una de cada 61, ya tienes algo."
 

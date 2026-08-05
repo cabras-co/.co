@@ -53,7 +53,16 @@ git clone https://github.com/cabras-co/.co.git co-skill
 cp -r co-skill/co ~/.claude/skills/co
 ```
 
-En una sesión nueva de Claude Code escribe `/co`, o simplemente pregunta "¿cómo sé si esto funciona?". En claude.ai: sube la carpeta `co/` como skill en tus ajustes de capacidades.
+En una sesión nueva de Claude Code escribe `/co`, o simplemente pregunta "¿cómo sé si esto funciona?".
+
+En claude.ai la skill se sube como archivo `.zip`, no como carpeta:
+
+1. Descarga el `.zip` del repo, o comprime tú la carpeta `co/`. Guárdalo tal cual: no lo descomprimas.
+2. Entra a [claude.ai](https://claude.ai).
+3. Abre **Configuración**.
+4. Entra a **Capacidades**.
+5. Entra a **Habilidades**.
+6. Sube el archivo `.zip`.
 
 ## Ejemplo (60 segundos)
 
@@ -66,7 +75,7 @@ Después de contar sus canales:
 
 Dos semanas después, con datos:
 
-> **co:** Pagó una de 61 personas frías. Eso no es "1.6% de conversión": con un solo caso tu tasa real está entre 0.3% y 8.7%, y esos dos extremos son negocios distintos. Sabes que existe al menos un humano que paga por esto. Siguiente apuesta: encontrar un lugar con 600 personas como esa.
+> **co:** Pagó una de 61 personas frías. Eso no es "1.6% de conversión". En la tabla no hay fila de 61, así que se redondea hacia abajo y se lee la de 50: con un solo caso tu tasa real está entre 0.4% y 10.5%, y esos dos extremos son negocios distintos. Sabes que existe al menos un humano que paga por esto. Siguiente apuesta: encontrar un lugar con 600 personas como esa.
 
 ## Comparte tu experimento
 

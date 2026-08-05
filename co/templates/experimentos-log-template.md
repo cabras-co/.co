@@ -35,7 +35,7 @@ reemplaza cualquier estimación: es tu propio número, no el de un libro.
 **La apuesta**
 
 - **Fecha:** [fecha absoluta, ej. 26 jul 2026]
-- **Versión de la skill:** [ej. v1.0.0]
+- **Versión de la skill:** [ej. v1.2.3]
 - **Apuesta:** [el comportamiento ajeno que el build asume]
 - **Necesito al mes:** [monto] · **Precio:** [precio] · **Clientes que necesito:** [número]
 

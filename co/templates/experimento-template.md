@@ -45,7 +45,7 @@ Señales secundarias (se anotan, no deciden): [opcional; ej. "correos dejados"]
 **Si [número] o más, [qué significa exactamente, sin exagerar; ej. "no confirmé nada, pero vale la pena buscar un canal diez veces más grande"].**
 
 Ventana: hasta agotar el canal o hasta el [fecha absoluta], lo que pase primero.
-Versión de la skill: [ej. v1.0.0]
+Versión de la skill: [ej. v1.2.3]
 
 ## Instrumentación
 
@@ -75,6 +75,6 @@ Desviaciones de lo firmado: [qué no cuadró entre lo firmado y lo que corrió. 
 
 Veredicto: no alcanza para decidir / maté / sigo buscando
 Resultado con su población: [nunca un porcentaje solo; ej. "1 de 61 personas frías del canal de LinkedIn"]
-Rango real (si convirtió alguien): [de `references/alcance.md`; ej. "entre 0.3% y 8.7%"]
+Rango real (si convirtió alguien): [se LEE la fila de `references/alcance.md`, redondeando hacia abajo cuando no hay fila exacta; ej. "1 de 61 personas: no hay fila de 61, se lee la de 50, entre 0.4% y 10.5%"]
 Qué aprendí: [una o dos frases]
 **Siguiente apuesta: [qué hago el lunes. Nunca se deja vacío]**
