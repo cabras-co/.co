@@ -1,7 +1,8 @@
 <!--
 Template de `experimentos-log.md`, la memoria. Se genera EN EL IDIOMA DEL USUARIO.
 
-Vive en el repo del usuario. Se crea en el paso 2 y se actualiza en CADA paso, no solo al final.
+Vive en el repo del usuario. Se crea en el paso 0, con la apuesta escrita y nada más, y se
+actualiza en CADA paso, no solo al final.
 Al crearlo, la skill dice en voz alta, literal: "esto vive solo en tu repo; nada sale de aquí sin
 que tú lo mandes".
 

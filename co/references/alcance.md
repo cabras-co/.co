@@ -57,7 +57,7 @@ tabla que lo salve, el problema es el canal.
 porcentaje. El 5% de 90 son 4.5 personas, y media persona no existe. En números chicos los
 porcentajes suenan a una precisión que no está ahí.
 
-**Paso 3, al leer.** Si convirtió una sola persona, di el rango completo en voz alta. "Una de 90"
+**Paso 4, al leer los datos.** Si convirtió una sola persona, di el rango completo en voz alta. "Una de 90"
 no es "1.1%": es algo entre 0.2% y 6%, y esos dos extremos son negocios distintos.
 
 ## Lo que la tabla no arregla

@@ -14,7 +14,7 @@ De arriba (más fuerte) hacia abajo (más débil):
 - **Click:** hicieron algo con el cursor. Casi gratis para ellos.
 - **Opinión:** dijeron algo. Gratis, amable, y casi siempre inútil para decidir.
 
-## Para qué sirve la escalera (cambió en v1)
+## Para qué sirve la escalera
 
 No es una jerarquía de calidad. **Es la respuesta a que te falte gente.**
 
